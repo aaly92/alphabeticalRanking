@@ -1,0 +1,33 @@
+#index{
+	background-image: url("unknown.png");
+	background-color: #ffc800;
+}
+
+.container{
+	margin-top: 200px;
+	background-color: rgba(255,255,255,0.95);
+	border-radius: 10px;
+	width: 100px;
+}
+
+input{
+   text-align:center;
+   text-transform: uppercase;
+   border-color: black;
+}
+
+#aa-form-input {
+	margin-top: 50px;
+	height: 50px;
+}
+
+#aa-form-button{
+	margin-top: 20px;
+	margin-bottom: 50px;
+	background-color: black;
+	border-color: black;
+	text-fill-color: white;
+	color: white;
+	height: 50px;
+}
+
